@@ -1,6 +1,6 @@
 Описание программы "fileparsing.java" - "Утилита фильтрации строк".
 
-Задание выполнил Федченко Дмитрий.
+Задание (SHIFT-59803) выполнил Федченко Дмитрий Валерьевич.
 java 21.0.1 2023-10-17 LTS
 Java(TM) SE Runtime Environment (build 21.0.1+12-LTS-29)
 Java HotSpot(TM) 64-Bit Server VM (build 21.0.1+12-LTS-29, mixed mode, sharing)
